@@ -1,0 +1,28 @@
+name: ericboucher
+favicon: null
+layout_spectrum: 0.1075666374526918
+typography_spectrum: 0.48313767393119633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.751330568920821
+  lightness: 0.567999358754605
+  saturation: 0.12345299264416099
+  rhythmicContrast: 0.8444398990832269
+purpose: []
